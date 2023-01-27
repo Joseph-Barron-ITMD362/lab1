@@ -4,7 +4,7 @@ body {
 
 #content {
   margin-left: 25%;
-  height: 50%;
+  margin-top: 25%;
 }
 
 h3 {
@@ -13,14 +13,9 @@ h3 {
 }
 
 p {
-  margin-left: 25%;
   text-align: center;
   color: white;
   position: center
-}
-
-ul {
-  margin-left: 25%;
 }
 
 li {
