@@ -40,7 +40,7 @@ li::after {
 img {
   border-radius: 25px;
   display: block;
-  margin-left: auto;
+  margin-left: 25%;
   margin-right: auto;
   width: 50%;
 }
