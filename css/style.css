@@ -26,6 +26,7 @@ ul {
 
 li {
   text-align: center;
+  margin-left: 10%;
   color: white;
   list-style-type: none;
 }
