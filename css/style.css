@@ -8,18 +8,19 @@ body {
 }
 
 h3 {
-	text-align: center;
+  text-align: center;
   color: white;
 }
 
 p {
+  margin-left: 25%;
   text-align: center;
   color: white;
   position: center
 }
 
 ul {
-  margin-left: 50%;
+  margin-left: 25%;
 }
 
 li {
@@ -37,7 +38,7 @@ li::after {
 }
 
 img {
-  margin-right: 50%;
+  margin-left: 25%;
   border-radius: 10%;
   width: 35%;
   height: auto;
