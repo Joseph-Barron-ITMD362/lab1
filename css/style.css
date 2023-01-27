@@ -38,8 +38,8 @@ li::after {
 }
 
 img {
-  margin-left: 25%;
-  border-radius: 10%;
-  width: 35%;
-  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
